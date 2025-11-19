@@ -2,17 +2,16 @@
 ### Author: Alpesh Chovatiya
 
 ### Problem Statement:
-Effective inventory and sales management are critical for optimizing profitability in the retail and wholesale industry. Companies need to ensure that they are not incurring losses due to inefficient pricing, poor inventory turnover, or vendor dependency. 
-The goal of this analysis is to:
-● ​Identify underperforming brands that require promotional or pricing adjustments.
-● ​Determine top vendors contributing to sales and gross profit.
-● ​Analyze the impact of bulk purchasing on unit costs.
-● ​Assess inventory turnover to reduce holding costs and improve efficiency.
-● ​Investigate the profitability variance between high-performing and
-low-performing vendors.
+Effective inventory and sales management are critical for optimizing profitability in the retail and wholesale industry. Companies need to ensure that they are not incurring losses due to inefficient pricing, poor inventory turnover, or vendor dependency.           
+The goal of this analysis is to:         
+● ​Identify underperforming brands that require promotional or pricing adjustments.        
+● ​Determine top vendors contributing to sales and gross profit.         
+● ​Analyze the impact of bulk purchasing on unit costs.           
+● ​Assess inventory turnover to reduce holding costs and improve efficiency.         
+● ​Investigate the profitability variance between high-performing and low-performing vendors.  
 
 ### Dataset Overview:
-This dataset contains  300153 records with following 11 columns.  
+This dataset contains 10692 records with following 18 columns.  
 
 **1. VendorNumber:** Unique numerical identifier assigned to each vendor.  
 **2. VendorName:** Name of the vendor supplying the products.  
@@ -36,14 +35,10 @@ This dataset contains  300153 records with following 11 columns.
 
 #### Key Findings Summary:
 
-198 brands have low sales but high profit margins — strong candidates for marketing or pricing adjustments to boost volume.
+● ​198 brands have low sales but high profit margins — strong candidates for marketing or pricing adjustments to boost volume.         
+● ​Top 10 vendors account for 65%+ of purchases, creating dependency risks and highlighting the need for diversification.             
+● ​Bulk purchasing reduces unit cost by about 72%, confirming that larger orders significantly improve cost efficiency.              
+● ​The company holds $2.71M worth of unsold inventory, representing major tied-up capital and storage expenses.            
+● Low-performing vendors have higher margins but poor sales volume, indicating pricing or channel distribution issues.       
+● Statistical tests confirm significant differences in profit models between top vendors (high sales) and low vendors (high margin).
 
-Top 10 vendors account for 65%+ of purchases, creating dependency risks and highlighting the need for diversification.
-
-Bulk purchasing reduces unit cost by about 72%, confirming that larger orders significantly improve cost efficiency.
-
-The company holds $2.71M worth of unsold inventory, representing major tied-up capital and storage expenses.
-
-Low-performing vendors have higher margins but poor sales volume, indicating pricing or channel distribution issues.
-
-Statistical tests confirm significant differences in profit models between top vendors (high sales) and low vendors (high margin).
