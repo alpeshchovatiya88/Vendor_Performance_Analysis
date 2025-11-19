@@ -22,9 +22,9 @@ This dataset contains 10692 records with following 18 columns.
 **7. Volume:** Size, quantity, or packaging volume of the product.    
 **8. TotalPurchaseQuantity:** otal number of units purchased from the vendor.     
 **9. TotalPurchaseDollars:** Total dollar amount spent on purchases from the vendor.  
-**10. TotalSalesQuantity:** Total number of units sold to customers.   
-**11. TotalSalesDollars:** Total dollar revenue generated from sales. 
-**12. TotalSalesPrice:**	Average selling price or total sales price depending on dataset definition.  
+**10. TotalSalesQuantity:** Total number of units sold to customers.     
+**11. TotalSalesDollars:** Total dollar revenue generated from sales.      
+**12. TotalSalesPrice:**	Average selling price or total sales price depending on dataset definition.    
 **13. TotalExciseTax:**	Total excise tax applied to sales of the product.   
 **14. FreightCost:**	Transportation or shipping costs associated with the product.    
 **15. GrossProfit:** 	Profit remaining after subtracting purchase and freight costs from sales revenue.     
