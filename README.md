@@ -33,7 +33,7 @@ This dataset contains 10692 records with following 18 columns.
 **18. SalesToPurchaseRatio:**	Ratio comparing units sold vs. units purchased (indicates efficiency).
 
 
-#### Key Findings Summary:
+### Key Findings Summary:
 
 ● ​198 brands have low sales but high profit margins — strong candidates for marketing or pricing adjustments to boost volume.         
 ● ​Top 10 vendors account for 65%+ of purchases, creating dependency risks and highlighting the need for diversification.             
@@ -42,6 +42,6 @@ This dataset contains 10692 records with following 18 columns.
 ● Low-performing vendors have higher margins but poor sales volume, indicating pricing or channel distribution issues.       
 ● Statistical tests confirm significant differences in profit models between top vendors (high sales) and low vendors (high margin).
 
-#### PowerBI Dashboard 
+### PowerBI Dashboard 
 
 <img width="1229" height="731" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/b700d6f2-d335-42f7-a90f-8438cf92d076" />
